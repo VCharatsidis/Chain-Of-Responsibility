@@ -1,0 +1,10 @@
+﻿  Main.cpp
+c:\users\vcharatsidis\documents\visual studio 2017\projects\chainofresponsibility\chainofresponsibility\main.cpp(3): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+c:\users\vcharatsidis\documents\visual studio 2017\projects\chainofresponsibility\chainofresponsibility\main.cpp(4): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+c:\users\vcharatsidis\documents\visual studio 2017\projects\chainofresponsibility\chainofresponsibility\main.cpp(5): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  ModifierInstances.cpp
+  CreatureModifier.cpp
+  Creature.cpp
+  Generating Code...
+  ChainOfResponsibility.vcxproj -> c:\users\vcharatsidis\documents\visual studio 2017\Projects\ChainOfResponsibility\Debug\ChainOfResponsibility.exe
+  ChainOfResponsibility.vcxproj -> c:\users\vcharatsidis\documents\visual studio 2017\Projects\ChainOfResponsibility\Debug\ChainOfResponsibility.pdb (Partial PDB)
